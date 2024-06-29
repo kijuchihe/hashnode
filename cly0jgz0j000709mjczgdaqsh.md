@@ -42,3 +42,11 @@ When I started learning how to code, I learned that you should make your code wo
 As I start my HNG Internship, I'm excited to dive deeper into mobile development. My goal is to gain hands-on experience, learn from building difficult projects and tasks, and build a portfolio that showcases my skills. I aim to become a proficient mobile developer, creating scalable and maintainable applications that delight users.
 
 The HNG Internship offers the perfect opportunity to learn, collaborate with peers, work on real-world projects and grow (something I am very particular about).
+
+Check them out on their websites by following any of the links below
+
+[https://hng.tech/internship](https://hng.tech/internship)
+
+[https://hng.tech/hire](https://hng.tech/hire)
+
+[https://hng.tech/premium](https://hng.tech/premium)
