@@ -3,7 +3,7 @@ title: "My Basic Struggle As A Backend Developer"
 datePublished: Sat Jun 29 2024 20:29:20 GMT+0000 (Coordinated Universal Time)
 cuid: cly0kscie00070amj57zr5eqh
 slug: my-basic-struggle-as-a-backend-developer-hng11
-tags: authentication, backend, backend-development, rate-limiting
+tags: express, authentication, expressjs, nodejs, backend, backend-development, rate-limiting
 
 ---
 
@@ -29,7 +29,7 @@ I don't really have much to say about these. You can checkout this article on \[
 
 ## HNG Internship
 
-As I start my HNG Internship, I'm excited to dive deeper into mobile development. My goal is to gain hands-on experience, learn from building difficult projects and tasks, and build a portfolio that showcases my skills. I aim to become a proficient mobile developer, creating scalable and maintainable applications that delight users.
+As I start my HNG Internship, I'm excited to dive deeper into backend development. My goal is to gain hands-on experience, learn from building difficult projects and tasks, and build a portfolio that showcases my skills. I aim to become a proficient mobile developer, creating scalable and maintainable applications that delight users.
 
 The HNG Internship offers the perfect opportunity to learn, collaborate with peers, work on real-world projects and grow (something I am very particular about).
 
