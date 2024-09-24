@@ -33,3 +33,16 @@ We will learn about DSA by focusing on the following:
 3. Understanding various algorithms
     
 4. Practicing questions along the way!
+    
+
+## Why Learn DSA?
+
+Learning Data Structures and Algorithms (DSA) offers several advantages:
+
+1. **Job Applications in FAANG**: Mastering DSA is crucial for landing jobs at top tech companies like Facebook, Amazon, Apple, Netflix, and Google, as they often focus on these skills during technical interviews to assess problem-solving abilities.
+    
+2. **Everyday Activities**: DSA principles are not just for coding; they apply to daily tasks too! For example, using algorithms helps us efficiently sort and search for items, like finding a book on a shelf or organizing contacts on our phones.
+    
+3. **Improved Problem Solving**: Understanding DSA enhances your ability to tackle complex problems logically and systematically.
+    
+4. **Better Coding Efficiency**: With a solid grasp of DSA, you can write more efficient code that runs faster and uses less memory.
