@@ -117,7 +117,11 @@ This means,
     
 2. Return statements have constant time.
     
-3. Loops have linear time O(n)
+3. Mathematical operations like addition, subtraction, division and multiplication all have constant times: O(1).
+    
+4. Loops have linear time O(n).
+    
+5. When there is an operation in a loop, the time complexity of the loop is n\*(complexity of inner operation). For this reason, if you have a for loop inside another for loop, the time complexity will be n\*n=n². That will give a quadratic time complexity: O(n²).
     
 
 As time goes on and as we look at different data structures and algorithms, we will analyze the complexities of the different operations that can be done on these data structures and the time complexities of different algorithms as well.
