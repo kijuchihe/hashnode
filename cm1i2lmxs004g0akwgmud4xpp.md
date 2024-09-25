@@ -104,9 +104,11 @@ This means,
 
 ## Steps To Calculate Complexity in Big-O
 
-1. Find the fastest growing term in the function
+1. Sum up all the complexities of the operation.
     
-2. If the fastest growing term has a coefficient, remove it.
+2. Find the fastest growing term in the function.
+    
+3. If the fastest growing term has a coefficient, remove it.
     
 
 > Note the following:
