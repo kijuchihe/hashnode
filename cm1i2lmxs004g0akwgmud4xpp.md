@@ -113,7 +113,9 @@ This means,
 
 1. Assignments have constant time O(1)
     
-2. Loops have linear time O(n)
+2. Return statements have constant time.
+    
+3. Loops have linear time O(n)
     
 
 As time goes on and as we look at different data structures and algorithms, we will analyze the complexities of the different operations that can be done on these data structures and the time complexities of different algorithms as well.
