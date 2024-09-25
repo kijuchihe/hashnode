@@ -21,17 +21,17 @@ One of the main reasons for Data Structures and Algorithms (DSA), is to solve pr
 
 ## Types of Complexities
 
-1. Constant
+1. Constant (1)
     
-2. Logarithmic
+2. Logarithmic (log n)
     
-3. Linear
+3. Linear (n)
     
-4. Quadratic
+4. Quadratic (n²)
     
-5. Factorial
+5. Factorial (n!)
     
-6. Exponential
+6. Exponential (c^n)
     
 
 ## Asymptotic Notation
@@ -101,6 +101,13 @@ Mathematically, it is represented as
 This means,
 
 > f(n) = Θ(g(n)), If there are positive constants n<sub>0</sub> and c such that, to the right of n<sub>0</sub> the f(n) always lies on or above c<sub>1</sub>\*g(n) and below c<sub>2</sub>\*g(n).
+
+## Steps To Calculate Complexity
+
+1. Find the fastest growing term in the function
+    
+2. If the fastest growing term has a coefficient, remove it.
+    
 
 As time goes on and as we look at different data structures and algorithms, we will analyze the complexities of the different operations that can be done on these data structures and the time complexities of different algorithms as well.
 
