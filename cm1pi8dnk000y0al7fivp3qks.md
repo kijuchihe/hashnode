@@ -25,7 +25,7 @@ There are two points that we generally care about in a queue:
 
 In a queue, you can access both the first and the last items of the queue.
 
-### Operations on a Queue
+### Operations performed on a Queue
 
 * **Enqueue**: This is the process of adding an item to a queue. This has a time complexity of `O(1)`
     
@@ -82,7 +82,7 @@ A **stack** is a linear data structure that follows the **Last In First Out (LIF
 
 Stacks operate from one end, known as the **top**, where all operations are performed.
 
-### Operations performed on tasks.
+### Operations performed on Stacks.
 
 1. **Push()**: Adds an element to the top of the stack. This has a time complexity of `O(1)`.
     
