@@ -128,7 +128,7 @@ Stacks operate from one end, known as the **top**, where all operations are perf
     * Real-world examples include physical stacks, such as plates on a tray or coins stacked on top of each other.
         
 
-### Conclusion
+## Conclusion
 
 So there you have it! Stacks and queues are essential tools for organizing data. Stacks let you work with the last item added first, while queues keep everything in order from first to last. Whether you're coding or just waiting in line at your favourite spot, understanding these structures can make things way easier.
 
